@@ -1,0 +1,62 @@
+AgencyName,PaymentProductName,FareCost2014
+AC Transit,AC Transit Adult TransBay (31 Day Rolling) pass,4.2
+AC Transit,AC Transit Adult local (31 Day Rolling) pass,2
+AC Transit,AC Transit EasyPass,2.5
+AC Transit,AC Transit Senior/Disabled Local Monthly Pass,1
+AC Transit,AC Transit Youth local (31 Day Rolling) pass,1
+AC Transit,VTA Express ECO Pass,2.5
+BART,SF Muni Adult Fastpass,1.85
+SF Muni,Caltrain Adult 1 Zone MUNI Pass,2
+SF Muni,Caltrain Adult 2 Zone MUNI Pass,2
+SF Muni,Caltrain Adult 3 Zone MUNI Pass,2
+SF Muni,Caltrain Adult 4 Zone MUNI Pass,2
+SF Muni,Caltrain Adult 5 Zone MUNI Pass,2
+SF Muni,Caltrain Adult 6 Zone MUNI Pass,2
+SF Muni,SF Muni 1 Day Rolling Pass,2
+SF Muni,SF Muni 3 Day Rolling Pass,2
+SF Muni,SF Muni 7 Day Rolling Pass,2
+SF Muni,SF Muni Adult Fastpass,2
+SF Muni,SF Muni Adult Round Trip,2
+SF Muni,SF Muni Adult Single Ride,2
+SF Muni,SF Muni Senior Citizen Monthly Pass,0.75
+SF Muni,SF Muni Senior Round Trip,0.75
+SF Muni,SF Muni Senior Single Ride,0.75
+SF Muni,SF Muni Youth Monthly Pass,0.75
+SF Muni,SF Muni Youth Round Trip,0.75
+SF Muni,SF Muni Youth Single Ride,0.75
+SF Muni,SF Muni-Only Adult Pass,2
+SamTrans,Caltrain Adult 2 Zone MUNI Pass,2
+SamTrans,Caltrain Adult 2 Zone Monthly Pass,2
+SamTrans,Caltrain Adult 3 Zone MUNI Pass,2
+SamTrans,Caltrain Adult 3 Zone Monthly Pass,2
+SamTrans,Caltrain Adult 4 Zone MUNI Pass,2
+SamTrans,Caltrain Adult 4 Zone Monthly Pass,2
+SamTrans,Caltrain Adult 5 Zone Monthly Pass,2
+SamTrans,Caltrain ED 2 zone Monthly pass,1
+SamTrans,Caltrain ED 3 zone Monthly pass,1
+SamTrans,Caltrain ED 4 zone Monthly pass,1
+SamTrans,SamTrans Eligible Discount Monthly Pass,1
+SamTrans,SamTrans Express Monthly Pass,5
+SamTrans,SamTrans Local Monthly Pass,2
+SamTrans,SamTrans Local/SF Monthly Pass,4
+SamTrans,SamTrans Youth Monthly Pass,1.25
+VTA,Caltrain Adult 2 Zone MUNI Pass,2
+VTA,Caltrain Adult 2 Zone Monthly Pass,2
+VTA,Caltrain Adult 3 Zone MUNI Pass,2
+VTA,Caltrain Adult 3 Zone Monthly Pass,2
+VTA,Caltrain Adult 4 Zone MUNI Pass,2
+VTA,Caltrain Adult 4 Zone Monthly Pass,2
+VTA,Caltrain Adult 5 Zone Monthly Pass,2
+VTA,Caltrain ED 1 zone Monthly pass,1
+VTA,Caltrain ED 2 zone Monthly pass,1
+VTA,Caltrain ED 3 zone Monthly pass,1
+VTA,Caltrain ED 4 zone Monthly pass,1
+VTA,Caltrain ED 5 zone Monthly pass,1
+VTA,VTA Adult Express Monthly Pass,4
+VTA,VTA Adult Standard Monthly Pass,2
+VTA,VTA Day Pass Accumulator,2
+VTA,VTA Express ECO Pass,3
+VTA,VTA Senior / Disabled Monthly Pass,1
+VTA,VTA Standard ECO Pass,2.5
+VTA,VTA University ECO Pass,2.5
+VTA,VTA Youth Monthly Pass,1.75
